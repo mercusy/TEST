@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.TEST" parent="android:Theme.Material.Light.NoActionBar" >
+        <item name="statusBarBackground">#41D59191</item>
+        <item name="android:statusBarColor">#41D59191</item>
+    </style>
+
+
+</resources>
