@@ -12,4 +12,5 @@ val Pink40 = Color(0xFF7D5260)
 
 val transparent = Color(0xFFFFFFFF)
 val navigation = Color(0xFF7597C5)
+val blue = Color(0xFF3F5F8D)
 val lightWhite = Color(0xEEFFFFFF)
